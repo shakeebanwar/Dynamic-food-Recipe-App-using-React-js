@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,WAEE,wBAAyB,CACzB,UAAY,CACZ,eAAkB,CAClB,iBACF,CAEA,YAGE,eACF","file":"main.d90d51c0.chunk.css","sourcesContent":[".jumbotron{\n\n  background-color: #ff3f34;\n  color: white;\n  padding: 100px 0px;\n  text-align: center;\n}\n\n.brand-icon{\n\n\n  font-size: 100px;\n}"]}
